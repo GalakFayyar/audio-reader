@@ -1,1 +1,1 @@
-[{"title":"test","artiste":"test","tracks":[{"title":"minimalish.mp3","url":"./public/music/test/minimalish.mp3"}]},{"title":"test2","artiste":"test2","tracks":[{"title":"slower.mp3","url":"./public/music/test2/slower.mp3"}]}]
+[{"title":"test","artiste":"test","tracks":[{"title":"minimalish.mp3","url":"music/test/minimalish.mp3"}]},{"title":"test2","artiste":"test2","tracks":[{"title":"slower.mp3","url":"music/test2/slower.mp3"}]}]

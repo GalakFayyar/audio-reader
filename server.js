@@ -57,7 +57,7 @@ function processImageDir(path) {
             var fullName = name;
             name.substr(-4).match(/(mp3|wav)/) && _tracks.push({
                 title: name,
-                url: musicDirectory + path + "/" + fullName
+                url: 'music/' + path + "/" + fullName
             })
         });
         listAlbums.push({
